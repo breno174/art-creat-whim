@@ -8,6 +8,8 @@ export const theme = extendTheme({
       500: "#168821",
     },
     gray: {
+      100: "#f1f0ec",
+      200: "rgb(255, 255, 255, 0.1)",
       300: "#F5F5F5",
       400: "#E0E0E0",
       500: "#999999",
@@ -23,6 +25,7 @@ export const theme = extendTheme({
       500: "#F5C41F",
     },
     blue: {
+      300: "rgb(51,161,168)",
       400: "#155BCB",
     },
     brown: {
